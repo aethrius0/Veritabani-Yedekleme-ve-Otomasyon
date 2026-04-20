@@ -1,6 +1,7 @@
 -- ================================================
 -- PROJE 7: Veritabanı Yedekleme ve Otomasyon
 -- Veritabanı: WideWorldImporters
+-- Sunucu: SRC\SQLEXPRESS
 -- ================================================
 
 -- Recovery Model'i FULL olarak ayarla
@@ -22,7 +23,7 @@ WITH DIFFERENTIAL,
      NAME = 'WideWorldImporters Differential Backup',
      STATS = 10;
 
--- 3. FULL BACKUP (Recovery Model değişince tekrar gerekli)
+-- 3. FULL BACKUP (Recovery Model degisince tekrar gerekli)
 BACKUP DATABASE [WideWorldImporters]
 TO DISK = 'C:\Backup\Proje-7\WWI_Full_2.bak'
 WITH FORMAT,
