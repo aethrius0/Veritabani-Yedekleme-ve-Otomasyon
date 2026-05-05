@@ -7,7 +7,7 @@ https://youtu.be/tIIYdr4S6JI
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
 
-> BLM4522 Ağ Tabanlı Paralel Dağıtım Sistemleri — Proje 2
+> BLM4522 Ağ Tabanlı Paralel Dağıtım Sistemleri — Proje 7
 
 ## 📌 Proje Hakkında
 
