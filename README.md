@@ -1,4 +1,4 @@
-YOUTUBE LİNKİ:
+# YOUTUBE LİNKİ:
 https://youtu.be/tIIYdr4S6JI
 
 # ⚙️ Veritabanı Yedekleme ve Otomasyon Çalışması
